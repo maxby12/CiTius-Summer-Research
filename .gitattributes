@@ -1,0 +1,10 @@
+Trained-Models/** filter=lfs diff=lfs merge=lfs -text
+Trained-Models/CAE-2048-SDA filter=lfs diff=lfs merge=lfs -text
+Trained-Models/CAE-32-SDA filter=lfs diff=lfs merge=lfs -text
+Trained-Models/CAE-4096-HDA filter=lfs diff=lfs merge=lfs -text
+Trained-Models/CAE-64-NDA filter=lfs diff=lfs merge=lfs -text
+Trained-Models/INP-SDA-32 filter=lfs diff=lfs merge=lfs -text
+Trained-Models/INP-SDA-64 filter=lfs diff=lfs merge=lfs -text
+Trained-Models/CAE-1024-SDA filter=lfs diff=lfs merge=lfs -text
+Trained-Models/CAE-16-SDA filter=lfs diff=lfs merge=lfs -text
+Trained-Models/**/* filter=lfs diff=lfs merge=lfs -text
